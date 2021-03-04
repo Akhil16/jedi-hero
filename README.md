@@ -1,3 +1,3 @@
 # jedi-hero
 
-![](jedi hero.gif)
+![](jedi-hero.gif)
